@@ -91,7 +91,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />  
 
 **Ссылки:**  
-[Backend](<!-- вставь ссылку -->) | [Frontend](<!-- вставь ссылку -->)  
+[Backend](https://github.com/NikitaDzigurda/Backend_Bvk.git)  
 
 
 ###
