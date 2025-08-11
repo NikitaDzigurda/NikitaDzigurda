@@ -41,7 +41,7 @@
 
 <ul>
 <li><b>Протоколы и архитектура:</b> REST API, gRPC, WebSocket, микросервисы, DDD, MVC, CI/CD</li>
-<li><b>Инструменты и утилиты:</b> Postman, pgAdmin, Docker, Docker Compose, Figma, UML, LaTeX, EasyEDA, Nginx, Kafka, RabbitMQ, AmveraCloud, Uvicorn, Gunicorn</li>
+<li><b>Инструменты, утилиты и фреймворки:</b> FastApi, SQLAlchemy, Alembic, Postman, pgAdmin, Docker, Docker Compose, Figma, UML, LaTeX, EasyEDA, Nginx, Kafka, RabbitMQ, AmveraCloud, Uvicorn, Gunicorn</li>
 <li><b>Языки и базы данных:</b> Python (асинхронное программирование), SQL (PostgreSQL, SQLite), изучаю noSQL (MongoDB, Redis и др.)</li>
 </ul>
 
@@ -49,18 +49,50 @@
 
 <h3 align="left">📂 Проекты</h3>
 
-<h4>Автоматизация подбора рецептур для алюмооксидных носителей</h4>  
-<p>Проектная практика с компанией «Сибур-Инновации»</p>  
-<ul>
-<li>Автоматизация подбора условий синтеза с применением ИИ</li>
-<li>Полный цикл разработки: от анализа требований до деплоя</li>
-<li>Веб-приложение с разграничением доступа и сложной архитектурой базы данных</li>
-<li>
-  <a href="sibur-soakulo.amvera.io" target="_blank">Ссылка на сайт проекта</a> | 
-  <a href="https://github.com/sibur111/Backend.git" target="_blank">Репозиторий (backend)</a> |
-  <a href="https://github.com/sibur111/new_frontend.git" target="_blank">Репозиторий (frontend)</a>
-</li>
-</ul>
+---
+
+### Автоматизация подбора рецептур для алюмооксидных носителей  
+*(Проектная практика с компанией «Сибур-Инновации»)*  
+
+**Описание:**  
+Веб-сервис для автоматизации подбора условий синтеза алюмооксидных носителей с применением ИИ.  
+Включает базу данных для хранения сырья и условий реакций, алгоритм поиска путей синтеза и веб-интерфейс с разграничением прав доступа.  
+
+**Технологии:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" />  
+
+**Ссылки:**  
+[Сайт проекта](sibur-soakulo.amvera.io) | [Backend](https://github.com/sibur111/Backend.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
+
+---
+
+### QuantumLogic — AI-ассистент для анализа документов  
+*(Проект хакатона 3.0)*  
+
+**Описание:**  
+Веб-приложение для суммаризации и извлечения ключевой информации из PDF, PPTX, DOCX.  
+Поддерживает гибкую настройку генерации, выбор различных AI-моделей (включая локальные), а также загрузку и обработку файлов в реальном времени.  
+
+**Возможности:**  
+- Авторизация и управление пользователями  
+- Глубокая интеграция с AI Models (в т.ч. BVKgpt и GPT-4o)  
+- Swagger-документация, Docker-сборка, GitLab CI/CD  
+
+**Технологии:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />  
+
+**Ссылки:**  
+[Backend](<!-- вставь ссылку -->) | [Frontend](<!-- вставь ссылку -->)  
+
 
 ###
 
