@@ -57,7 +57,8 @@
 <li>Веб-приложение с разграничением доступа и сложной архитектурой базы данных</li>
 <li>
   <a href="sibur-soakulo.amvera.io" target="_blank">Ссылка на сайт проекта</a> | 
-  <a href="https://github.com/sibur111/Backend.git" target="_blank">Репозиторий</a>
+  <a href="https://github.com/sibur111/Backend.git" target="_blank">Репозиторий (backend)</a> |
+  <a href="https://github.com/sibur111/new_frontend.git" target="_blank">Репозиторий (frontend)</a>
 </li>
 </ul>
 
