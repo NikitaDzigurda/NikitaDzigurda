@@ -67,7 +67,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" />  
 
 **Ссылки:**  
-[Сайт проекта](sibur-soakulo.amvera.io) | [Backend](https://github.com/sibur111/Backend.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
+[Сайт проекта](sibur-soakulo.amvera.io) | [Backend](https://github.com/NikitaDzigurda/Backend_Sibur.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
 
 ---
 
