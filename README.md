@@ -109,7 +109,7 @@
 <h3 align="left">📫 Контакты</h3>
 
 <ul>
-<li>Telegram: <a href="https://t.me/Yasin_Bayraktarr" target="_blank">@Nikita_Dzigurda</a></li>
+<li>Telegram: <a href="https://t.me/Yasin_Bayraktarr" target="_blank">@Yasin_Bayraktarr</a></li>
 <li>Email: <a href="mailto:timofeev.matvey0107@gmail.com">timofeev.matvey0107@gmail.com</a></li>
 </ul>
 
