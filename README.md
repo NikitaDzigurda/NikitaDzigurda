@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/Yasin_Bayraktarr" target="_blank">
+  <a href="https://t.me/@Yasin_Bayraktarr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="mailto:timofeev.matvey0107@gmail.com" target="_blank">
@@ -109,7 +109,7 @@
 <h3 align="left">📫 Контакты</h3>
 
 <ul>
-<li>Telegram: <a href="https://t.me/Nikita_Dzigurda" target="_blank">@Nikita_Dzigurda</a></li>
+<li>Telegram: <a href="https://t.me/Yasin_Bayraktarr" target="_blank">@Nikita_Dzigurda</a></li>
 <li>Email: <a href="mailto:timofeev.matvey0107@gmail.com">timofeev.matvey0107@gmail.com</a></li>
 </ul>
 
