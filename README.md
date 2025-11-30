@@ -6,15 +6,12 @@
 
 ###
 
-<h1 align="center">Здравствуйте! Меня зовут Ясин!</h1>
+<h1 align="center">Hello! My name is Yasin!</h1>
 
 ###
 
 <div align="center">
-  <a href="https://t.me/@Yasin_Bayraktarr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:timofeev.matvey0107@gmail.com" target="_blank">
+  <a href="mailto:yasin.bayraktar1730@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
@@ -27,38 +24,65 @@
 
 ###
 
-<h3 align="left">Обо мне</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
-Я backend-разработчик на Python с опытом создания надёжных и масштабируемых веб-сервисов.  
-Специализируюсь на проектировании архитектуры и работе с базами данных.  
-В настоящее время активно изучаю noSQL базы и современные архитектурные подходы.  
+I am a Python Backend Developer experienced in building reliable and scalable web services.  
+My specialization lies in system architecture design, database management, and asynchronous programming.  
+Currently, I am actively exploring NoSQL databases and modern architectural patterns.  
 </p>
 
 ###
 
-<h3 align="left">Основные навыки и технологии</h3>
+<h3 align="left">Core Skills & Technologies</h3>
 
 <ul>
-<li><b>Протоколы и архитектура:</b> REST API, gRPC, WebSocket, микросервисы, DDD, MVC, CI/CD</li>
-<li><b>Инструменты, утилиты и фреймворки:</b> FastApi, SQLAlchemy, Alembic, Postman, pgAdmin, Docker, Docker Compose, Figma, UML, LaTeX, EasyEDA, Nginx, Kafka, RabbitMQ, AmveraCloud, Uvicorn, Gunicorn</li>
-<li><b>Языки и базы данных:</b> Python (асинхронное программирование), SQL (PostgreSQL, SQLite), изучаю noSQL (MongoDB, Redis и др.)</li>
+<li><b>Architecture & Protocols:</b> REST API, gRPC, WebSocket, Microservices, DDD, MVC, CI/CD</li>
+<li><b>Tools & Frameworks:</b> FastAPI, SQLAlchemy, Alembic, Postman, pgAdmin, Docker, Docker Compose, Figma, UML, LaTeX, EasyEDA, Nginx, Kafka, RabbitMQ, Redis, Celery</li>
+<li><b>Languages & Databases:</b> Python (AsyncIO), SQL (PostgreSQL, SQLite), exploring NoSQL (MongoDB, etc.)</li>
 </ul>
 
 ###
 
-<h3 align="left">📂 Проекты</h3>
+<h3 align="left">📂 Projects</h3>
 
 ---
 
-### Автоматизация подбора рецептур для алюмооксидных носителей  
-*(Проектная практика с компанией «Сибур-Инновации»)*  
+### Academic Profile — Scientific Profile Aggregation & Networking Platform  
+*(Hackathon Case)*  
 
-**Описание:**  
-Веб-сервис для автоматизации подбора условий синтеза алюмооксидных носителей с применением ИИ.  
-Включает базу данных для хранения сырья и условий реакций, алгоритм поиска путей синтеза и веб-интерфейс с разграничением прав доступа.  
+**Description:**  
+A microservices-based platform for researchers. It automatically parses publications from open sources (arXiv, Semantic Scholar), calculates scientometric indicators (h-index, citation counts), and provides tools for finding research team members.  
 
-**Технологии:**  
+**Key Features:**  
+- **Asynchronous Parsing:** Implemented via Celery + Redis to handle large data volumes without blocking the API.  
+- **Complex DB Architecture:** Utilizes PostgreSQL advanced features (ARRAY, JSONB types) for optimized storage of authors and metadata.  
+- **Networking:** Team Request system with contact visibility and smart recommendations.  
+- **Infrastructure:** Fully containerized with Docker Compose (API, Worker, DB, Redis, Frontend Proxy).  
+
+**Technologies:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" /> 
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Alembic-F0F0F0?style=flat&logo=alembic&logoColor=black" height="25" />
+
+**Links:**  
+[Project](https://github.com/NikitaDzigurda/Fishing.git)
+
+---
+
+### Recipe Selection Automation for Alumina Carriers  
+*(Internship Project with "Sibur-Innovations")*  
+
+**Description:**  
+A web service designed to automate the selection of synthesis conditions for alumina carriers using AI.  
+Features include a database for raw materials and reaction conditions, a synthesis path search algorithm, and a web interface with role-based access control.  
+
+**Technologies:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" /> 
@@ -66,56 +90,44 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" />  
 
-**Ссылки:**  
-[Сайт проекта](sibur-soakulo.amvera.io) | [Backend](https://github.com/NikitaDzigurda/Backend_Sibur.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
+**Links:**  
+[Project Site](sibur-soakulo.amvera.io) | [Backend](https://github.com/NikitaDzigurda/Backend_Sibur.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
 
 ---
 
-### QuantumLogic — AI-ассистент для анализа документов  
-*(Проект хакатона 3.0)*  
+### QuantumLogic — AI Document Analysis Assistant  
+*(Hackathon Case)*  
 
-**Описание:**  
-Веб-приложение для суммаризации и извлечения ключевой информации из PDF, PPTX, DOCX.  
-Поддерживает гибкую настройку генерации, выбор различных AI-моделей (включая локальные), а также загрузку и обработку файлов в реальном времени.  
+**Description:**  
+A web application for summarizing and extracting key information from PDF, PPTX, and DOCX files.  
+Supports flexible generation settings, selection of various AI models (including local ones), and real-time file upload/processing.  
 
-**Возможности:**  
-- Авторизация и управление пользователями  
-- Глубокая интеграция с AI Models (в т.ч. BVKgpt и GPT-4o)  
-- Swagger-документация, Docker-сборка, GitLab CI/CD  
+**Features:**  
+- Authorization and User Management  
+- Deep integration with AI Models  
+- Swagger documentation, Docker build, GitLab CI/CD, Flower monitoring  
 
-**Технологии:**  
+**Technologies:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />  
 
-**Ссылки:**  
+**Links:**  
 [Backend](https://github.com/NikitaDzigurda/Backend_Bvk.git)  
 
-
 ###
 
-<h3 align="left">🎓 Образование и достижения</h3>
+<h3 align="left">Contacts</h3>
 
 <ul>
-<li>Студент 2 курса Университета «Сириус», направление: Проектирование, разработка и управление сложными информационными системами</li>
-<li>Летняя практика в компании-партнёре «Сибур-Инновации»</li>
-<li>Призовые места на региональных и международных хакатонах по направлению «Умный город» и безопасность</li>
+<li>Email: <a href="mailto:yasin.bayraktar1730@gmail.com">yasin.bayraktar1730@gmail.com</a></li>
 </ul>
 
 ###
 
-<h3 align="left">📫 Контакты</h3>
-
-<ul>
-<li>Telegram: <a href="https://t.me/Yasin_Bayraktarr" target="_blank">@Yasin_Bayraktarr</a></li>
-<li>Email: <a href="mailto:timofeev.matvey0107@gmail.com">timofeev.matvey0107@gmail.com</a></li>
-</ul>
-
-###
-
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -148,4 +160,4 @@
 
 ###
 
-<p align="center">Спасибо за внимание! Буду рад сотрудничеству и новым интересным задачам.</p>
+<p align="center">Thanks for your attention! I'm open to collaboration and new challenges.</p>
