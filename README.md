@@ -1,31 +1,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600"
-       src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img height="300" width="650" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<h1 align="center">Hi, I'm Matvey Timofeev</h1>
-
-<h3 align="center">
-Data Scientist | Financial & Portfolio Analytics | Quantitative Research
-</h3>
+<h1 align="center">Hello! My name is Yasin </h1>
 
 <div align="center">
-  <a href="mailto:timofeev.matvey0107@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-         height="25"
-         alt="email" />
-  </a>
-
-  <a href="https://github.com/NikitaDzigurda">
-    <img src="https://img.shields.io/badge/GitHub-NikitaDzigurda-181717?style=for-the-badge&logo=github&logoColor=white"
-         height="25"
-         alt="github" />
+  <a href="mailto:yasin.bayraktar1730@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="email badge" />
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NikitaDzigurda.NikitaDzigurda" />
@@ -33,310 +18,210 @@ Data Scientist | Financial & Portfolio Analytics | Quantitative Research
 
 ---
 
-<h2>About Me</h2>
+<h2 align="left">About Me</h2>
 
-<p>
-I am a Data Scientist focused on financial, portfolio, and research analytics.
-I work with financial and product data using Python, SQL, statistics, and machine learning,
-combining analytical research with software engineering.
-</p>
+I am a **Data Scientist** focused on **financial, portfolio, and research analytics**.  
+I work with **financial and product data** using **Python, SQL, statistics, and machine learning**, combining analytical research with software engineering.
 
-<p>
-My current interests include portfolio analytics, quantitative research,
-risk and performance analysis, financial data pipelines, and investment data products.
-</p>
+My current interests include **portfolio analytics, quantitative research, risk and performance analysis, financial data pipelines, and investment data products**.
 
-<p>
-I am particularly interested in understanding not only how much a portfolio or strategy earns,
-but also how that result is generated, what risks are taken, and whether the observed
-performance is statistically and economically sustainable.
-</p>
+I am particularly interested in understanding not only **how much a portfolio or strategy earns**, but also **how that result is generated, what risks are taken, and whether the observed performance is statistically and economically sustainable**.
 
-<p>
-Currently studying Complex Information Systems Design, Development and Management
-at Sirius University.
-</p>
+Currently studying **Complex Information Systems Design, Development and Management** at **Sirius University**.
 
 ---
 
-<h2>Core Skills</h2>
+<h2 align="left">Core Skills</h2>
 
-<b>Financial & Quantitative Analytics</b>
+### Financial & Quantitative Analytics
+`Portfolio Analytics` · `P&L Analysis` · `Mark-to-Market` · `Equity Curves` · `Maximum Drawdown` · `Sharpe Ratio` · `Sortino Ratio` · `Recovery Factor` · `Win Rate` · `Expected Value` · `Strategy Analysis` · `Risk & Performance Analysis`
 
-<p>
-Portfolio Analytics • P&L Analysis • Mark-to-Market • Equity Curves •
-Maximum Drawdown • Sharpe Ratio • Sortino Ratio • Recovery Factor •
-Win Rate • Expected Value • Time Series • Strategy Analysis •
-Risk & Performance Analysis
-</p>
+### Data Science & Statistics
+`EDA` · `Hypothesis Testing` · `Regression Analysis` · `A/B Testing` · `Machine Learning` · `Random Forest` · `Gradient Boosting` · `SHAP` · `Monte Carlo Methods` · `Statistical Validation`
 
-<b>Data Science & Statistics</b>
+### Data Engineering & Analytics
+`ETL` · `Data Quality` · `REST API` · `Financial Data Processing` · `PostgreSQL` · `ClickHouse` · `Pandas` · `NumPy` · `SciPy` · `Polars`
 
-<p>
-EDA • Hypothesis Testing • Regression Analysis • A/B Testing •
-Machine Learning • Random Forest • Gradient Boosting • SHAP •
-Monte Carlo Methods • Statistical Validation
-</p>
-
-<b>Data Engineering & Analytics</b>
-
-<p>
-ETL • Data Quality • REST API • Financial Data Processing •
-PostgreSQL • ClickHouse • Pandas • NumPy • SciPy • Polars
-</p>
-
-<b>Backend & Infrastructure</b>
-
-<p>
-FastAPI • SQLAlchemy • Celery • Redis • Docker • Git •
-REST / GraphQL APIs • Async Python
-</p>
+### Backend & Infrastructure
+`FastAPI` · `SQLAlchemy` · `Celery` · `Redis` · `Docker` · `Git` · `REST / GraphQL APIs` · `Async Python`
 
 ---
 
-<h2>Selected Projects</h2>
+<h2 align="left">Selected Projects</h2>
 
-<h3>Financial Strategy & Portfolio Research</h3>
+### Financial Strategy & Portfolio Research
+Quantitative research project focused on analyzing the **performance and risk of algorithmic trading strategies**.
 
-<p>
-Quantitative research project focused on analyzing the performance and risk
-of algorithmic trading strategies.
-</p>
+**Research scope:**
+- Analyzed **50,422 trades** generated by **93 algorithmic strategies** across **21 financial instruments**
+- Built a **Python ETL pipeline** for historical **OHLCV market data** using the **OKX REST API**
+- Reconstructed **mark-to-market equity curves** using realized and unrealized P&L, open positions, market prices, and trading fees
+- Calculated and analyzed **Win Rate, Expected Value, Maximum Drawdown, Recovery Factor, Sharpe Ratio, and Sortino Ratio**
+- Compared strategies by **profitability, risk, and stability**
+- Investigated **portfolio drawdowns** that were not visible when analyzing only **closed trades**
 
-<b>Research scope:</b>
-
-<p>
-• Analyzed 50,422 trades generated by 93 algorithmic strategies across 21 financial instruments.<br>
-• Built a Python ETL pipeline for historical OHLCV market data using the OKX REST API.<br>
-• Reconstructed mark-to-market equity curves using realized and unrealized P&L,
-open positions, market prices and trading fees.<br>
-• Calculated and analyzed Win Rate, Expected Value, Maximum Drawdown,
-Recovery Factor, Sharpe Ratio and Sortino Ratio.<br>
-• Compared strategies by profitability, risk and stability.<br>
-• Investigated portfolio drawdowns that were not visible when analyzing only closed trades.
-</p>
-
-<b>Technologies:</b>
-
-<p>
-Python • Pandas • NumPy • SciPy • REST API • OKX API •
-Matplotlib • Seaborn • Time Series Analysis
-</p>
+**Technologies:**  
+Python · Pandas · NumPy · SciPy · REST API · OKX API · Matplotlib · Seaborn · Time Series Analysis
 
 ---
 
-<h3>Finance Aggregator</h3>
+### Finance Aggregator
+Personal investment data platform designed to **consolidate brokerage and cryptocurrency assets into a unified portfolio model**.
 
-<p>
-Personal investment data platform designed to consolidate brokerage
-and cryptocurrency assets into a unified portfolio model.
-</p>
+The project started from a practical problem: investment assets were distributed across **different brokers and centralized exchanges**, making it difficult to evaluate the overall portfolio, positions, and financial result in one place.
 
-<p>
-The project started from a practical problem: investment assets were distributed
-across different brokers and centralized exchanges, making it difficult to evaluate
-the overall portfolio, positions and financial result in one place.
-</p>
+**Implemented / explored:**
+- Import and normalization of brokerage and exchange reports
+- Unified transaction ledger for investment operations
+- Position and cash balance reconstruction
+- Weighted-average cost basis calculations
+- Realized and unrealized P&L
+- Fees, taxes, and investment income accounting
+- Multi-currency portfolio processing and FX conversion
+- Portfolio allocation and basic analytics
+- Reconciliation and financial data-quality checks
 
-<b>Implemented / explored:</b>
+The project is currently a **local prototype** and is being developed further as a **financial analytics and portfolio management system**.
 
-<p>
-• Import and normalization of brokerage and exchange reports.<br>
-• Unified transaction ledger for investment operations.<br>
-• Position and cash balance reconstruction.<br>
-• Weighted-average cost basis calculations.<br>
-• Realized and unrealized P&L.<br>
-• Fees, taxes and investment income accounting.<br>
-• Multi-currency portfolio processing and FX conversion.<br>
-• Portfolio allocation and basic analytics.<br>
-• Reconciliation and financial data-quality checks.
-</p>
-
-<p>
-The project is currently a local prototype and is being developed further
-as a financial analytics and portfolio management system.
-</p>
-
-<b>Technologies:</b>
-
-<p>
-Python • FastAPI • PostgreSQL • SQLAlchemy • Pandas / Polars •
-REST API • Docker
-</p>
-
-<!-- Add repository link when public:
-[Repository](YOUR_FINANCE_AGGREGATOR_REPOSITORY)
--->
+**Technologies:**  
+Python · FastAPI · PostgreSQL · SQLAlchemy · Pandas · Polars · REST API · Docker
 
 ---
 
-<h3>Clinical Data Research</h3>
+### Clinical Data Research
+Statistical and machine-learning research using **real clinical datasets** in **cardiology, vascular surgery, and cardio-oncology**.
 
-<p>
-Statistical and machine-learning research using real clinical datasets
-in cardiology, vascular surgery and cardio-oncology.
-</p>
-
-<p>
-• Performed full-cycle analytical research from data preprocessing
-and hypothesis formulation to model validation and interpretation.<br>
-• Applied Logistic Regression, Kaplan-Meier analysis, Cox Regression,
-Monte Carlo simulations, Random Forest and SHAP.<br>
-• Worked with imbalanced datasets and statistical hypothesis testing.<br>
-• Prepared analytical visualizations and scientific reports.<br>
-• Presented research results at the All-Russian conference
-"Mathematics in Medicine".
-</p>
+**Research scope:**
+- Performed full-cycle analytical research from **data preprocessing** and **hypothesis formulation** to **model validation** and **interpretation**
+- Applied **Logistic Regression, Kaplan–Meier analysis, Cox Regression, Monte Carlo simulations, Random Forest, and SHAP**
+- Worked with **imbalanced datasets** and **statistical hypothesis testing**
+- Prepared analytical visualizations and scientific reports
+- Presented research results at the **All-Russian conference "Mathematics in Medicine"**
 
 ---
 
-<h3>Academic Profile — Scientific Profile Aggregation Platform</h3>
+### Academic Profile — Scientific Profile Aggregation Platform  
+Platform for aggregating researchers’ **scientific profiles, publications, and scientometric indicators**.
 
-<p>
-A platform for aggregating researchers' scientific profiles,
-publications and scientometric indicators.
-</p>
+**Implemented:**
+- Asynchronous publication processing with **Celery** and **Redis**
+- PostgreSQL-based data model using **JSONB** and **ARRAY** structures
+- Researcher networking and **team-request** functionality
+- Dockerized backend infrastructure
 
-<p>
-• Asynchronous publication processing with Celery and Redis.<br>
-• PostgreSQL-based data model using JSONB and ARRAY structures.<br>
-• Researcher networking and team-request functionality.<br>
-• Dockerized backend infrastructure.
-</p>
+**Technologies:**  
+Python · FastAPI · PostgreSQL · Redis · Celery · SQLAlchemy · Docker
 
-<b>Technologies:</b>
-
-<p>
-Python • FastAPI • PostgreSQL • Redis • Celery • SQLAlchemy • Docker
-</p>
-
-<p>
-<a href="https://github.com/NikitaDzigurda/Fishing">Repository</a>
-</p>
+**Repository:**  
+[Academic Profile Project](https://github.com/NikitaDzigurda/Fishing.git)
 
 ---
 
-<h3>QuantumLogic — AI Document Analysis Assistant</h3>
+### QuantumLogic — AI Document Analysis Assistant
+AI-powered application for processing and analyzing **PDF, PPTX, and DOCX documents**.
 
-<p>
-AI-powered application for processing and analyzing PDF, PPTX and DOCX documents.
-</p>
+**Implemented:**
+- Document summarization and key-information extraction
+- Integration with multiple AI models
+- Asynchronous file processing
+- Authentication, API documentation, and containerized deployment
 
-<p>
-• Document summarization and key-information extraction.<br>
-• Integration with multiple AI models.<br>
-• Asynchronous file processing.<br>
-• Authentication, API documentation and containerized deployment.
-</p>
+**Technologies:**  
+Python · FastAPI · PostgreSQL · Docker · Nginx · AI / LLM APIs
 
-<b>Technologies:</b>
-
-<p>
-Python • FastAPI • PostgreSQL • Docker • Nginx • AI / LLM APIs
-</p>
-
-<p>
-<a href="https://github.com/NikitaDzigurda/Backend_Bvk">Backend Repository</a>
-</p>
+**Repository:**  
+[Backend Repository](https://github.com/NikitaDzigurda/Backend_Bvk.git)
 
 ---
 
-<h3>Recipe Selection Automation for Alumina Carriers</h3>
+### Recipe Selection Automation for Alumina Carriers
+Web service developed during a project with **Sibur Innovations** for automating the selection of synthesis conditions for alumina carriers.
 
-<p>
-Web service developed during a project with Sibur Innovations
-for automating the selection of synthesis conditions for alumina carriers.
-</p>
+**Implemented:**
+- Structured database for raw materials and reaction conditions
+- Synthesis-path search functionality
+- Backend API and role-based access
+- Containerized service architecture
 
-<p>
-• Structured database for raw materials and reaction conditions.<br>
-• Synthesis-path search functionality.<br>
-• Backend API and role-based access.<br>
-• Containerized service architecture.
-</p>
+**Technologies:**  
+Python · FastAPI · PostgreSQL · Redis · Docker · Nginx
 
-<b>Technologies:</b>
-
-<p>
-Python • FastAPI • PostgreSQL • Redis • Docker • Nginx
-</p>
-
-<p>
-<a href="https://github.com/NikitaDzigurda/Backend_Sibur">Backend</a> |
-<a href="https://github.com/sibur111/new_frontend">Frontend</a>
-</p>
+**Links:**  
+[Project Site](https://sibur-soakulo.amvera.io)  
+[Backend](https://github.com/NikitaDzigurda/Backend_Sibur.git) · [Frontend](https://github.com/sibur111/new_frontend.git)
 
 ---
 
-<h2>Current Focus</h2>
+<h2 align="left">Current Focus</h2>
 
-<p>
-📊 Portfolio Analytics<br>
-📈 Quantitative Research<br>
-💹 Investment & Trading Data Analysis<br>
-⚙️ Financial Data Engineering<br>
-🧪 Statistical Research & Hypothesis Testing
-</p>
+-  Portfolio Analytics  
+-  Quantitative Research  
+-  Investment & Trading Data Analysis  
+-  Financial Data Engineering  
+-  Statistical Research & Hypothesis Testing  
 
 ---
 
-<h2>Tech Stack</h2>
+<h2 align="left">🛠 Tech Stack</h2>
+
+<h3 align="left">Data Science & Analytics</h3>
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="30" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" height="30" alt="Polars" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="Matplotlib" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-     height="40" alt="Python" />
+<br>
 
-<img width="12" />
+<h3 align="left">Databases & Data Engineering</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-     height="40" alt="PostgreSQL" />
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" height="30" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge&logo=apacheairflow&logoColor=white" height="30" alt="ETL" />
+  <img src="https://img.shields.io/badge/Data%20Quality-1F6FEB?style=for-the-badge&logo=datadog&logoColor=white" height="30" alt="Data Quality" />
+</div>
 
-<img width="12" />
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-     height="40" alt="Docker" />
+<h3 align="left">Backend & APIs</h3>
 
-<img width="12" />
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="30" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="30" alt="Celery" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Async%20Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Async Python" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-     height="40" alt="Redis" />
+<br>
 
-<img width="12" />
+<h3 align="left">Infrastructure & Tools</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     height="40" alt="Git" />
-
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-     height="40" alt="FastAPI" />
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="30" alt="LaTeX" />
 </div>
 
 ---
 
-<h2>Research & Career Interests</h2>
+<h2 align="left">Research & Career Interests</h2>
 
-<p>
-I am currently developing toward Portfolio Analytics and Quantitative Research.
-My long-term interests include strategy research, portfolio risk and performance analysis,
-factor research, statistical validation of investment hypotheses,
-and building data products for investment analytics.
-</p>
+I am currently developing toward **Portfolio Analytics** and **Quantitative Research**.  
+My long-term interests include **strategy research, portfolio risk and performance analysis, factor research, statistical validation of investment hypotheses, and building data products for investment analytics**.
 
 ---
 
-<h2>Contact</h2>
-
-<p>
-Email:
-<a href="mailto:timofeev.matvey0107@gmail.com">
-timofeev.matvey0107@gmail.com
-</a>
-</p>
-
-<p align="center">
-Open to internships, research projects and opportunities in
-Data Science, Financial Analytics, Portfolio Analytics and Quantitative Research.
-</p>
+<div align="center">
+  <i>Open to internships, research projects, and opportunities in Data Science, Financial Analytics, Portfolio Analytics, and Quantitative Research.</i>
+</div>
