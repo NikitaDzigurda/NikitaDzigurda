@@ -1,163 +1,342 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="600"
+       src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-###
+<h1 align="center">Hi, I'm Matvey Timofeev</h1>
 
-<h1 align="center">Hello! My name is Yasin!</h1>
-
-###
+<h3 align="center">
+Data Scientist | Financial & Portfolio Analytics | Quantitative Research
+</h3>
 
 <div align="center">
-  <a href="mailto:yasin.bayraktar1730@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  <a href="mailto:timofeev.matvey0107@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+         height="25"
+         alt="email" />
+  </a>
+
+  <a href="https://github.com/NikitaDzigurda">
+    <img src="https://img.shields.io/badge/GitHub-NikitaDzigurda-181717?style=for-the-badge&logo=github&logoColor=white"
+         height="25"
+         alt="github" />
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matvej.dzigurda&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NikitaDzigurda.NikitaDzigurda" />
 </div>
 
-###
+---
 
-<h3 align="left">About Me</h3>
+<h2>About Me</h2>
 
-<p align="left">
-I am a Python Backend Developer experienced in building reliable and scalable web services.  
-My specialization lies in system architecture design, database management, and asynchronous programming.  
-Currently, I am actively exploring NoSQL databases and modern architectural patterns.  
+<p>
+I am a Data Scientist focused on financial, portfolio, and research analytics.
+I work with financial and product data using Python, SQL, statistics, and machine learning,
+combining analytical research with software engineering.
 </p>
 
-###
+<p>
+My current interests include portfolio analytics, quantitative research,
+risk and performance analysis, financial data pipelines, and investment data products.
+</p>
 
-<h3 align="left">Core Skills & Technologies</h3>
+<p>
+I am particularly interested in understanding not only how much a portfolio or strategy earns,
+but also how that result is generated, what risks are taken, and whether the observed
+performance is statistically and economically sustainable.
+</p>
 
-<ul>
-<li><b>Architecture & Protocols:</b> REST API, gRPC, WebSocket, Microservices, DDD, MVC, CI/CD</li>
-<li><b>Tools & Frameworks:</b> FastAPI, SQLAlchemy, Alembic, Postman, pgAdmin, Docker, Docker Compose, Figma, UML, LaTeX, EasyEDA, Nginx, Kafka, RabbitMQ, Redis, Celery</li>
-<li><b>Languages & Databases:</b> Python (AsyncIO), SQL (PostgreSQL, SQLite), exploring NoSQL (MongoDB, etc.)</li>
-</ul>
-
-###
-
-<h3 align="left">📂 Projects</h3>
-
----
-
-### Academic Profile — Scientific Profile Aggregation & Networking Platform  
-*(Hackathon Case)*  
-
-**Description:**  
-A microservices-based platform for researchers. It automatically parses publications from open sources (arXiv, Semantic Scholar), calculates scientometric indicators (h-index, citation counts), and provides tools for finding research team members.  
-
-**Key Features:**  
-- **Asynchronous Parsing:** Implemented via Celery + Redis to handle large data volumes without blocking the API.  
-- **Complex DB Architecture:** Utilizes PostgreSQL advanced features (ARRAY, JSONB types) for optimized storage of authors and metadata.  
-- **Networking:** Team Request system with contact visibility and smart recommendations.  
-- **Infrastructure:** Fully containerized with Docker Compose (API, Worker, DB, Redis, Frontend Proxy).  
-
-**Technologies:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" /> 
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Alembic-F0F0F0?style=flat&logo=alembic&logoColor=black" height="25" />
-
-**Links:**  
-[Project](https://github.com/NikitaDzigurda/Fishing.git)
+<p>
+Currently studying Complex Information Systems Design, Development and Management
+at Sirius University.
+</p>
 
 ---
 
-### Recipe Selection Automation for Alumina Carriers  
-*(Internship Project with "Sibur-Innovations")*  
+<h2>Core Skills</h2>
 
-**Description:**  
-A web service designed to automate the selection of synthesis conditions for alumina carriers using AI.  
-Features include a database for raw materials and reaction conditions, a synthesis path search algorithm, and a web interface with role-based access control.  
+<b>Financial & Quantitative Analytics</b>
 
-**Technologies:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" />  
+<p>
+Portfolio Analytics • P&L Analysis • Mark-to-Market • Equity Curves •
+Maximum Drawdown • Sharpe Ratio • Sortino Ratio • Recovery Factor •
+Win Rate • Expected Value • Time Series • Strategy Analysis •
+Risk & Performance Analysis
+</p>
 
-**Links:**  
-[Project Site](sibur-soakulo.amvera.io) | [Backend](https://github.com/NikitaDzigurda/Backend_Sibur.git) | [Frontend](https://github.com/sibur111/new_frontend.git)  
+<b>Data Science & Statistics</b>
+
+<p>
+EDA • Hypothesis Testing • Regression Analysis • A/B Testing •
+Machine Learning • Random Forest • Gradient Boosting • SHAP •
+Monte Carlo Methods • Statistical Validation
+</p>
+
+<b>Data Engineering & Analytics</b>
+
+<p>
+ETL • Data Quality • REST API • Financial Data Processing •
+PostgreSQL • ClickHouse • Pandas • NumPy • SciPy • Polars
+</p>
+
+<b>Backend & Infrastructure</b>
+
+<p>
+FastAPI • SQLAlchemy • Celery • Redis • Docker • Git •
+REST / GraphQL APIs • Async Python
+</p>
 
 ---
 
-### QuantumLogic — AI Document Analysis Assistant  
-*(Hackathon Case)*  
+<h2>Selected Projects</h2>
 
-**Description:**  
-A web application for summarizing and extracting key information from PDF, PPTX, and DOCX files.  
-Supports flexible generation settings, selection of various AI models (including local ones), and real-time file upload/processing.  
+<h3>Financial Strategy & Portfolio Research</h3>
 
-**Features:**  
-- Authorization and User Management  
-- Deep integration with AI Models  
-- Swagger documentation, Docker build, GitLab CI/CD, Flower monitoring  
+<p>
+Quantitative research project focused on analyzing the performance and risk
+of algorithmic trading strategies.
+</p>
 
-**Technologies:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />  
+<b>Research scope:</b>
 
-**Links:**  
-[Backend](https://github.com/NikitaDzigurda/Backend_Bvk.git)  
+<p>
+• Analyzed 50,422 trades generated by 93 algorithmic strategies across 21 financial instruments.<br>
+• Built a Python ETL pipeline for historical OHLCV market data using the OKX REST API.<br>
+• Reconstructed mark-to-market equity curves using realized and unrealized P&L,
+open positions, market prices and trading fees.<br>
+• Calculated and analyzed Win Rate, Expected Value, Maximum Drawdown,
+Recovery Factor, Sharpe Ratio and Sortino Ratio.<br>
+• Compared strategies by profitability, risk and stability.<br>
+• Investigated portfolio drawdowns that were not visible when analyzing only closed trades.
+</p>
 
-###
+<b>Technologies:</b>
 
-<h3 align="left">Contacts</h3>
+<p>
+Python • Pandas • NumPy • SciPy • REST API • OKX API •
+Matplotlib • Seaborn • Time Series Analysis
+</p>
 
-<ul>
-<li>Email: <a href="mailto:yasin.bayraktar1730@gmail.com">yasin.bayraktar1730@gmail.com</a></li>
-</ul>
+---
 
-###
+<h3>Finance Aggregator</h3>
 
-<h3 align="left">🛠 Tech Stack:</h3>
+<p>
+Personal investment data platform designed to consolidate brokerage
+and cryptocurrency assets into a unified portfolio model.
+</p>
+
+<p>
+The project started from a practical problem: investment assets were distributed
+across different brokers and centralized exchanges, making it difficult to evaluate
+the overall portfolio, positions and financial result in one place.
+</p>
+
+<b>Implemented / explored:</b>
+
+<p>
+• Import and normalization of brokerage and exchange reports.<br>
+• Unified transaction ledger for investment operations.<br>
+• Position and cash balance reconstruction.<br>
+• Weighted-average cost basis calculations.<br>
+• Realized and unrealized P&L.<br>
+• Fees, taxes and investment income accounting.<br>
+• Multi-currency portfolio processing and FX conversion.<br>
+• Portfolio allocation and basic analytics.<br>
+• Reconciliation and financial data-quality checks.
+</p>
+
+<p>
+The project is currently a local prototype and is being developed further
+as a financial analytics and portfolio management system.
+</p>
+
+<b>Technologies:</b>
+
+<p>
+Python • FastAPI • PostgreSQL • SQLAlchemy • Pandas / Polars •
+REST API • Docker
+</p>
+
+<!-- Add repository link when public:
+[Repository](YOUR_FINANCE_AGGREGATOR_REPOSITORY)
+-->
+
+---
+
+<h3>Clinical Data Research</h3>
+
+<p>
+Statistical and machine-learning research using real clinical datasets
+in cardiology, vascular surgery and cardio-oncology.
+</p>
+
+<p>
+• Performed full-cycle analytical research from data preprocessing
+and hypothesis formulation to model validation and interpretation.<br>
+• Applied Logistic Regression, Kaplan-Meier analysis, Cox Regression,
+Monte Carlo simulations, Random Forest and SHAP.<br>
+• Worked with imbalanced datasets and statistical hypothesis testing.<br>
+• Prepared analytical visualizations and scientific reports.<br>
+• Presented research results at the All-Russian conference
+"Mathematics in Medicine".
+</p>
+
+---
+
+<h3>Academic Profile — Scientific Profile Aggregation Platform</h3>
+
+<p>
+A platform for aggregating researchers' scientific profiles,
+publications and scientometric indicators.
+</p>
+
+<p>
+• Asynchronous publication processing with Celery and Redis.<br>
+• PostgreSQL-based data model using JSONB and ARRAY structures.<br>
+• Researcher networking and team-request functionality.<br>
+• Dockerized backend infrastructure.
+</p>
+
+<b>Technologies:</b>
+
+<p>
+Python • FastAPI • PostgreSQL • Redis • Celery • SQLAlchemy • Docker
+</p>
+
+<p>
+<a href="https://github.com/NikitaDzigurda/Fishing">Repository</a>
+</p>
+
+---
+
+<h3>QuantumLogic — AI Document Analysis Assistant</h3>
+
+<p>
+AI-powered application for processing and analyzing PDF, PPTX and DOCX documents.
+</p>
+
+<p>
+• Document summarization and key-information extraction.<br>
+• Integration with multiple AI models.<br>
+• Asynchronous file processing.<br>
+• Authentication, API documentation and containerized deployment.
+</p>
+
+<b>Technologies:</b>
+
+<p>
+Python • FastAPI • PostgreSQL • Docker • Nginx • AI / LLM APIs
+</p>
+
+<p>
+<a href="https://github.com/NikitaDzigurda/Backend_Bvk">Backend Repository</a>
+</p>
+
+---
+
+<h3>Recipe Selection Automation for Alumina Carriers</h3>
+
+<p>
+Web service developed during a project with Sibur Innovations
+for automating the selection of synthesis conditions for alumina carriers.
+</p>
+
+<p>
+• Structured database for raw materials and reaction conditions.<br>
+• Synthesis-path search functionality.<br>
+• Backend API and role-based access.<br>
+• Containerized service architecture.
+</p>
+
+<b>Technologies:</b>
+
+<p>
+Python • FastAPI • PostgreSQL • Redis • Docker • Nginx
+</p>
+
+<p>
+<a href="https://github.com/NikitaDzigurda/Backend_Sibur">Backend</a> |
+<a href="https://github.com/sibur111/new_frontend">Frontend</a>
+</p>
+
+---
+
+<h2>Current Focus</h2>
+
+<p>
+📊 Portfolio Analytics<br>
+📈 Quantitative Research<br>
+💹 Investment & Trading Data Analysis<br>
+⚙️ Financial Data Engineering<br>
+🧪 Statistical Research & Hypothesis Testing
+</p>
+
+---
+
+<h2>Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="40" alt="kafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/000000" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     height="40" alt="Python" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+     height="40" alt="PostgreSQL" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     height="40" alt="Docker" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+     height="40" alt="Redis" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     height="40" alt="Git" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+     height="40" alt="FastAPI" />
+
 </div>
 
+---
 
-###
+<h2>Research & Career Interests</h2>
 
-<div align="center">
-  <!-- <img src="https://media.giphy.com/media/3o7aD6VtcXKx5b8eZq/giphy.gif" alt="animation" width="400" /> -->
-</div>
+<p>
+I am currently developing toward Portfolio Analytics and Quantitative Research.
+My long-term interests include strategy research, portfolio risk and performance analysis,
+factor research, statistical validation of investment hypotheses,
+and building data products for investment analytics.
+</p>
 
-###
+---
 
-<p align="center">Thanks for your attention! I'm open to collaboration and new challenges.</p>
+<h2>Contact</h2>
+
+<p>
+Email:
+<a href="mailto:timofeev.matvey0107@gmail.com">
+timofeev.matvey0107@gmail.com
+</a>
+</p>
+
+<p align="center">
+Open to internships, research projects and opportunities in
+Data Science, Financial Analytics, Portfolio Analytics and Quantitative Research.
+</p>
