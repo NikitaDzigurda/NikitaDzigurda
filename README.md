@@ -1,15 +1,11 @@
-<br clear="both">
-
 <div align="center">
-  <img height="300" width="650" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
 
-<h1 align="center">Hello! My name is Yasin </h1>
+# Hi, I'm Yasin
 
-<div align="center">
-  <a href="mailto:yasin.bayraktar1730@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="email badge" />
-  </a>
+### Data Scientist • Financial Analytics • Portfolio Analytics • Quantitative Research
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Financial+%26+Portfolio+Analytics;Quantitative+Research;Python+%7C+SQL+%7C+Statistics;Building+Data+Products+for+Investment+Analytics" />
+
 </div>
 
 <div align="center">
