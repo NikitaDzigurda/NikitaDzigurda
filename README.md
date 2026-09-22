@@ -25,7 +25,6 @@ I am particularly interested in understanding not only **how much a portfolio or
 
 Currently studying **Complex Information Systems Design, Development and Management** at **Sirius University**.
 
----
 
 <h2 align="left">Core Skills</h2>
 
@@ -207,17 +206,4 @@ Python · FastAPI · PostgreSQL · Redis · Docker · Nginx
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30" alt="Nginx" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" alt="Jupyter" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="30" alt="LaTeX" />
-</div>
-
----
-
-<h2 align="left">Research & Career Interests</h2>
-
-I am currently developing toward **Portfolio Analytics** and **Quantitative Research**.  
-My long-term interests include **strategy research, portfolio risk and performance analysis, factor research, statistical validation of investment hypotheses, and building data products for investment analytics**.
-
----
-
-<div align="center">
-  <i>Open to internships, research projects, and opportunities in Data Science, Financial Analytics, Portfolio Analytics, and Quantitative Research.</i>
 </div>
